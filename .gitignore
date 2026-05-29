@@ -1,0 +1,26 @@
+# Python environment
+venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and temporary files
+*.log
+*.cache
+*.pytest_cache/
+
+# OS files
+.DS_Store
+
+# Generated artifacts
+chunks/
+h3_index.js
+h3_index.json
+h3_mathematical_trace.md
+http_server.log
+
+# Nested repositories / external datasets
+H3/
+H3-125M/
